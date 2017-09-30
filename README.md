@@ -1,1 +1,0 @@
-# ercanozkaya.github.io
