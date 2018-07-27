@@ -7,7 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ercanozkaya.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ercanozkaya.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ercanozkaya.github.io/home/about/</guid>
+      <description>I am a software engineer based in Istanbul, Turkey.
+My main focus is crafting products with a robust architecture that provide a natural user experience.
+I am passionate about free software and have worked on various open source projects throughout my career. Most notable is the Joomla project where I took the role of release manager and also participated in the Google Summer of Code program.
+Right now I work as a consultant for Timble where I lead the Joomlatools brand and build things for the web.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ercanozkaya.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ercanozkaya.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
