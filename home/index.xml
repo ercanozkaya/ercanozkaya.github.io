@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ercan Özkaya</title>
-    <link>https://ercanozkaya.github.io/home/</link>
+    <link>https://www.ercanozkaya.com/home/</link>
     <description>Recent content in Homes on Ercan Özkaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ercanozkaya.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ercanozkaya.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ercanozkaya.github.io/home/about/</link>
+      <link>https://www.ercanozkaya.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ercanozkaya.github.io/home/about/</guid>
+      <guid>https://www.ercanozkaya.com/home/about/</guid>
       <description>I am a software engineer based in Istanbul, Turkey.
 My main focus is crafting products with a robust architecture that provide a natural user experience.
 I am passionate about free software and have worked on various open source projects throughout my career. Most notable is the Joomla project where I took the role of release manager and also participated in the Google Summer of Code program.
@@ -25,10 +25,10 @@ Right now I work as a consultant for Timble where I lead the Joomlatools brand a
     
     <item>
       <title>Contact</title>
-      <link>https://ercanozkaya.github.io/home/contact/</link>
+      <link>https://www.ercanozkaya.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ercanozkaya.github.io/home/contact/</guid>
+      <guid>https://www.ercanozkaya.com/home/contact/</guid>
       <description></description>
     </item>
     
